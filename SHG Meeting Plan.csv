@@ -25,8 +25,8 @@ G332_Kathakhali Gunapara Tormuj SHG,Teknaf,Whykong,Bithika Rani
 G328_Juarikhula tomato SHG,Teknaf,Whykong,Md. Amin
 G324_Unchi prang purbo para Koli Shak SHG,Teknaf,Whykong,Md. Amin
 G309_Lambabil majerpara shasa SHG,Teknaf,Whykong,Md. Giash Uddin
-G312_Amtoli para Chichinga SHG,Teknaf,Whykong,Md. Shafiqul Islam
-G303_Kutubdia poschim para chalkumra SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G312_Amtoli para Chichinga SHG,Teknaf,Whykong,Md. Giash Uddin
+G303_Kutubdia poschim para chalkumra SHG,Teknaf,Whykong,Md. Giash Uddin
 G373_Moddho Holdia Ghoner para Kodom SHG,Ukhiya,Holdiya Palong,GM Alauddin
 G355_Poschim Ghoner Para Podma SHG,Ukhiya,Holdiya Palong,GM Alauddin
 G069_Dahkua Para Shurjomokhi SHG,Ukhiya,Holdiya Palong,Jannatul Mawa Miskat
@@ -100,7 +100,7 @@ G299_Katiakhali Hatimara Lalsak SHG,Teknaf,Whykong,Bithika Rani
 G368_Kutubdiapara Supari SHG,Teknaf,Whykong,Md. Amin
 G334_Danggakhata Shim SHG,Teknaf,Whykong,Md. Amin
 G315_Pubo satghoria para chichinga SHG,Teknaf,Whykong,Md. Giash Uddin
-G307_Kutubdia purbopara badhacopi SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G307_Kutubdia purbopara badhacopi SHG,Teknaf,Whykong,Md. Giash Uddin
 R0321_hara mora Kokil-2 SHG,Ukhiya,Holdiya Palong,GM Alauddin
 G365_Sayakhola Shurjomukhi SHG,Ukhiya,Holdiya Palong,GM Alauddin
 R0336_Classo Para Tia-1 SHG,Ukhiya,Holdiya Palong,Jannatul Mawa Miskat
@@ -219,7 +219,7 @@ G212_Teli Para Kobotor SHG,Ukhiya,Ratna Palong,Abdul Hakim
 R0258_Ruhullar Deba Karnafuly-1 SHG,Ukhiya,Ratna Palong,Iqbal Bahar
 G219_Korobonia Kakatoya SHG,Ukhiya,Ratna Palong,Iqbal Bahar
 G317_Possim satghoria para Tometu SHG,Teknaf,Whykong,Md. Giash Uddin
-G318_Kanjor Para Gunapara Akah SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G318_Kanjor Para Gunapara Akah SHG,Teknaf,Whykong,Md. Giash Uddin
 G152_Inani Possim Para Bok SHG,Ukhiya,Jalia Palong,Amir Hosen
 R5821_Chakma para Nil Akash SHG,Ukhiya,Jalia Palong,Amir Hosen
 G160_Ukiyarghat Choroi SHG,Ukhiya,Palongkhali,Masudur Rahman
@@ -479,7 +479,7 @@ G296_Chakmarkul porbo para potol SHG,Teknaf,Whykong,Bithika Rani
 G315_Laturkhula Labu SHG,Teknaf,Whykong,Md. Amin
 G321_Possim satghoria para Misti kumra SHG,Teknaf,Whykong,Md. Giash Uddin
 G331_Balukali purbo para law shak SHG,Teknaf,Whykong,Md. Giash Uddin
-G313_Amtoli para Jhinga SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G313_Amtoli para Jhinga SHG,Teknaf,Whykong,Md. Amin
 R0341_Chayakhola Choroi SHG,Ukhiya,Holdiya Palong,GM Alauddin
 R0333_Chayakhola Moyna SHG,Ukhiya,Holdiya Palong,GM Alauddin
 R0310_Nasir Para Kobutor SHG,Ukhiya,Holdiya Palong,Jannatul Mawa Miskat
@@ -556,7 +556,7 @@ G345_Kirontoly Ghunapara Golap-jam SHG,Teknaf,Whykong,Bithika Rani
 G332_Laturikhula Begun SHG,Teknaf,Whykong,Md. Amin
 G322_Purbo satghoria para Papya SHG,Teknaf,Whykong,Md. Giash Uddin
 G354_Adharichara Lotcon SHG,Teknaf,Whykong,Md. Giash Uddin
-G338_Amtoli para vutta SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G338_Amtoli para vutta SHG,Teknaf,Whykong,Md. Amin
 R0337_Bartatoli Shalik-2 SHG,Ukhiya,Holdiya Palong,GM Alauddin
 R0340_Bartatoli Doual SHG,Ukhiya,Holdiya Palong,GM Alauddin
 R0301_Nasirpara Bulbuli SHG,Ukhiya,Holdiya Palong,Jannatul Mawa Miskat
@@ -629,7 +629,7 @@ G308_Lambabil Tercibridge Kolmishak SHG,Teknaf,Whykong,Bithika Rani
 G311_Lambaguna Chakmapara Chalta SHG,Teknaf,Whykong,Md. Amin
 G323_Possim satghoria para Dheki shak SHG,Teknaf,Whykong,Md. Giash Uddin
 G360_Majharpara Straw-berry SHG,Teknaf,Whykong,Md. Giash Uddin
-G301_Tolatoli Bit copy SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G301_Tolatoli Bit copy SHG,Teknaf,Whykong,Md. Amin
 R0298_Notun para Moyna-1 SHG,Ukhiya,Holdiya Palong,GM Alauddin
 R0311_Gait para Shalik-2 SHG,Ukhiya,Holdiya Palong,Jannatul Mawa Miskat
 R0339_Borbil Bulbuli-1 SHG,Ukhiya,Holdiya Palong,Jannatul Mawa Miskat
@@ -681,8 +681,8 @@ G288_Thanardeilpara Meghna SHG,Teknaf,Teknaf Sadar,Shuvo Sarker
 G263_Baroytali Kornafuli SHG,Teknaf,Teknaf Sadar,Shuvo Sarker
 G336_Horikhula Dharos SHG,Teknaf,Whykong,Md. Amin
 G326_Possim satghoria kachar para Badhakofi SHG,Teknaf,Whykong,Md. Giash Uddin
-G292_Ulobonia Poishak SHG,Teknaf,Whykong,Md. Shafiqul Islam
-G369_Lambabil Baggonapara Amra SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G292_Ulobonia Poishak SHG,Teknaf,Whykong,Md. Amin
+G369_Lambabil Baggonapara Amra SHG,Teknaf,Whykong,Md. Giash Uddin
 R1863_Molive Para Masranga SHG,Ukhiya,Holdiya Palong,Trisha Chowdhury
 G374_Moddho Holdia Nolbonia Shurjomukhi SHG,Ukhiya,Holdiya Palong,Trisha Chowdhury
 R0372_Uttar Para Sagorika SHG,Ukhiya,Jalia Palong,Golam Mostafa
@@ -707,29 +707,29 @@ G099_Purbo Rangikhali shayma SHG,Teknaf,Hnila,Md. Sakil Hossain
 G238_Kocubonia Mistikumra SHG,Teknaf,Teknaf Sadar,Shuvo Sarker
 G312_Latarikhula Bel SHG,Teknaf,Whykong,Md. Amin
 G373_Lambabill Baggonapara Kathal SHG,Teknaf,Whykong,Md. Giash Uddin
-G355_Amtoli Aam SHG,Teknaf,Whykong,Md. Shafiqul Islam
-G336_Ulubunia Dab SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G355_Amtoli Aam SHG,Teknaf,Whykong,Md. Giash Uddin
+G336_Ulubunia Dab SHG,Teknaf,Whykong,Md. Amin
 G117_Tin Para Moyna SHG,Ukhiya,Jalia Palong,Golam Mostafa
 R0357_Sonar Para Soikot SHG,Ukhiya,Jalia Palong,Golam Mostafa
 R0388_Gorjon boinna Rupali Pahar SHG,Ukhiya,Jalia Palong,Minhar Yesmin 
 R0401_Jumpara Golapi SHG,Ukhiya,Jalia Palong,Minhar Yesmin 
 R0439_Norar Dail Akashi SHG,Ukhiya,Jalia Palong,Tashbid Rahman
 R0086_Banor bapar khil Mitali,Ukhiya,Palongkhali,Mahfuja Akter
-G331_Kathakhali Chakmapara Pam SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G331_Kathakhali Chakmapara Pam SHG,Teknaf,Whykong,Md. Amin
 G223_Nutun para bulbuli SHG,Ukhiya,Ratna Palong,Iqbal Bahar
 G107_Jommapara Bok SHG,Teknaf,Hnila,Abedur Rahman
 G116_Mochuni masrangha SHG,Teknaf,Hnila,Abedur Rahman
 G102_School para fingey SHG,Teknaf,Hnila,Md. Sakil Hossain
-G344_Kirontoli Dauya SHG,Teknaf,Whykong,Md. Shafiqul Islam
-G341_Katakhali Hatimara Bangi SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G344_Kirontoli Dauya SHG,Teknaf,Whykong,Bithika Rani
+G341_Katakhali Hatimara Bangi SHG,Teknaf,Whykong,Bithika Rani
 G114_Chwydori para gancil SHG,Teknaf,Hnila,Abedur Rahman
 G086_Dakkhin Domdomia Choroi SHG,Teknaf,Hnila,Abedur Rahman
 G104_Purbo rangikhali koyel SHG,Teknaf,Hnila,Md. Sakil Hossain
-G339_Gilatoly Pani-fall SHG,Teknaf,Whykong,Md. Shafiqul Islam
-G300_Ghilatoli Ghona para Fulcopy SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G339_Gilatoly Pani-fall SHG,Teknaf,Whykong,Bithika Rani
+G300_Ghilatoli Ghona para Fulcopy SHG,Teknaf,Whykong,Bithika Rani
 G319_Possim satghoria para Patshuk SHG,Teknaf,Whykong,Md. Giash Uddin
-G291_Karuntoli ghona para kakrul SHG,Teknaf,Whykong,Md. Shafiqul Islam
-G330_Katakhali Poanachara Bilembo SHG,Teknaf,Whykong,Md. Shafiqul Islam
+G291_Karuntoli ghona para kakrul SHG,Teknaf,Whykong,Bithika Rani
+G330_Katakhali Poanachara Bilembo SHG,Teknaf,Whykong,Bithika Rani
 G109_School para bolboli SHG,Teknaf,Hnila,Abedur Rahman
 G115_Chwydori para masrangha SHG,Teknaf,Hnila,Abedur Rahman
 G103_Purboleda Joba SHG,Teknaf,Hnila,Abedur Rahman
